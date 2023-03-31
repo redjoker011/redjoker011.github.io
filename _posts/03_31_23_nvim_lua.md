@@ -1,5 +1,7 @@
+----
 title:  "Neovim Installation and config with Lua"
 tags: dotfile
+---
 
 # Neovim Config made with Lua
 
